@@ -2,6 +2,7 @@
 ![](https://github.com/Darumin/Darumin/blob/master/floatingbob.gif?raw=true)
 ![](https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-11.gif)
 ![](https://media.tenor.com/images/ad10d5b1f5495310155e20bf7b49f2d4/tenor.gif)
+![](https://i.gifer.com/origin/1c/1cd3ad75a586cbb813588dfe8f8a7a71_w200.gif)
 
 <!--
 **Darumin/Darumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
