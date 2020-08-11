@@ -1,4 +1,4 @@
-![](https://github.com/Darumin/Darumin/blob/master/dancingbob.gif?raw=true)
+![](https://i.pinimg.com/originals/c0/69/cd/c069cd0359560d04c783d9c50127ae05.gif)
 ![](https://github.com/Darumin/Darumin/blob/master/floatingbob.gif?raw=true)
 ![](https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-11.gif)
 ![](https://media.tenor.com/images/ad10d5b1f5495310155e20bf7b49f2d4/tenor.gif)
