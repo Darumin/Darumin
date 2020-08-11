@@ -1,5 +1,6 @@
 ![](https://i.pinimg.com/originals/c0/69/cd/c069cd0359560d04c783d9c50127ae05.gif)
 ![](https://i.pinimg.com/originals/6e/e1/3d/6ee13d5ad39e5e8d5b9ffbd5aa4767e7.gif)
+![](https://bestanimations.com/Animals/Mammals/Cats/cats/cute-kitty-animated-gif-11.gif)
 
 <!--
 **Darumin/Darumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
