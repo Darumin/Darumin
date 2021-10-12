@@ -2,7 +2,7 @@
 
 # Hello!
 
-- My name is Jan and I'm currently a student at Hackreactor SEI Remote Fall 2021.
+- My name is Jan and I'm currently a Software Engineer Immersive Resident at Galvanize.
 - I have a pet turtle and I like art, music and a lot of other things.
 - I am 28 years old and my last job was at a theme park managing inventory for attractions.eights.
 - Thanks for reading.
