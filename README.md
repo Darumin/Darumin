@@ -4,7 +4,7 @@
 
 - My name is Jan and I'm currently a Software Engineer Immersive Resident at Galvanize.
 - I have a pet turtle and I like art, music and a lot of other things.
-- I am 28 years old and my last job was at a theme park managing inventory for attractions.
+- I am 28 years old and my last job was at a theme park managing inventory.
 - Thanks for reading.
 
 <!--
