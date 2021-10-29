@@ -1,12 +1,14 @@
 <!-- ![](https://pa1.narvii.com/5842/f3467ed8d89962433813dc0882e82fc54300f7e3_00.gif) -->
 
-# Hello!
+# Hello! My name is Jan...
+> I am a full stack software engineer, a visual artist, and a writer.
 
-- My name is Jan and I'm currently a Software Engineer Immersive Resident at Galvanize.
-- I have a pet turtle and I like art, music and a lot of other things.
-- I am 28 years old and my last job was at a theme park managing inventory.
-- Thanks for reading.
+## Some Fun Facts
 
+-	:office_worker: I'm hunting for a new job.
+-	:musical_keyboard: I play the ![yanopi](https://www.giantbomb.com/piano/3055-634/).
+-	:mage_man: I care a lot about fantasy and science fiction.
+-	
 <!--
 **Darumin/Darumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
