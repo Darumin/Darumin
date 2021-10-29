@@ -3,6 +3,8 @@
 # Hello! My name is Jan...
 > I am a full stack software engineer, a digital artist, and a storyteller.
 
+![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
+
 ## Some Fun Facts
 
 - :rocket: I currently work for a coding bootcamp that teaches transitioning service members.
