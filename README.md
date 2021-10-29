@@ -6,7 +6,7 @@
 ## Some Fun Facts
 
 -	:office_worker: I'm hunting for a new job.
--	:musical_keyboard: I play the ![yanopi](https://www.giantbomb.com/piano/3055-634/).
+-	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/).
 -	:mage_man: I care a lot about fantasy and science fiction.
 -	
 <!--
