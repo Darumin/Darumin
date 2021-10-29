@@ -1,12 +1,11 @@
 <!-- ![](https://pa1.narvii.com/5842/f3467ed8d89962433813dc0882e82fc54300f7e3_00.gif) -->
 
 # Hello! My name is Jan...
-> I am a full stack software engineer, a visual artist, and a writer.
-
-![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
+> I am a full stack software engineer, a digital artist, and a storyteller.
 
 ## Some Fun Facts
 
+- :rocket: I currently work for a coding bootcamp that teaches transitioning service members.
 -	:office_worker: I'm hunting for a new job. Got any leads for me?
 -	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/). Currently learning *Rhapsody in Blue*.
 -	:mage_man: I care a lot about fantasy and science fiction.
