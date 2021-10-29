@@ -14,10 +14,6 @@
 -	:video_game: Puzzles and games are something I'm deeply interested in.
 -	:turtle: I have a pet turtle named [**Poirot**](https://en.wikipedia.org/wiki/Hercule_Poirot).
 
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jandeo)
-
 ## Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -62,6 +58,12 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jandeo)
+
+![](https://github.com/Darumin/Darumin/blob/master/floatingbob.gif?raw=true)
 <!--
 **Darumin/Darumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
