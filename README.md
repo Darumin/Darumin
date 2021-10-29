@@ -6,7 +6,7 @@
 ## Some Fun Facts
 
 - :rocket: I currently work for a coding bootcamp that teaches transitioning service members.
--	:office_worker: I'm hunting for a new job. Got any leads for me?
+-	:writing_hand: I'm hunting for a new job. Got any leads for me?
 -	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/). Currently learning *Rhapsody in Blue*.
 -	:mage_man: I care a lot about fantasy and science fiction.
 -	:video_game: I care a lot about puzzles and games.
