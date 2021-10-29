@@ -3,6 +3,8 @@
 # Hello! My name is Jan...
 > I am a full stack software engineer, a visual artist, and a writer.
 
+![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
+
 ## Some Fun Facts
 
 -	:office_worker: I'm hunting for a new job. Got any leads for me?
