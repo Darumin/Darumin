@@ -8,7 +8,7 @@
 ## Some Fun Facts
 
 - :rocket: I currently work for a coding bootcamp that teaches transitioning service members.
--	:writing_hand: I'm hunting for a new job. Got any leads for me?
+-	:writing_hand: I'm hunting for a new job after my current one ends. Got any leads for me?
 -	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/). Currently learning *Rhapsody in Blue*.
 -	:mage_man: Fiction of all kinds is something I'm deeply interested in.
 -	:video_game: Puzzles and games are something I'm deeply interested in.
