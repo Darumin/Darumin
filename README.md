@@ -1,7 +1,7 @@
 <!-- ![](https://pa1.narvii.com/5842/f3467ed8d89962433813dc0882e82fc54300f7e3_00.gif) -->
 
-# Hello! My name is Jan...
-> I am a full stack software engineer, a digital artist, and a storyteller.
+# Hello!
+> My name is Jan. I am a full stack software engineer, a digital artist, and a storyteller.
 
 ![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
 
