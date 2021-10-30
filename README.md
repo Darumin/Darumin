@@ -59,6 +59,7 @@
 ![firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darumin&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 
