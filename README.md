@@ -1,15 +1,13 @@
 <!-- ![](https://pa1.narvii.com/5842/f3467ed8d89962433813dc0882e82fc54300f7e3_00.gif) -->
 
 # Hello!
-> My name is Jan. I am a full stack software engineer, a digital artist, and a storyteller.
+> My name is Jan. This is my Github.
 
 ![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
 
 ## Some Fun Facts
 
-- :rocket: I currently work for a coding bootcamp that teaches transitioning service members.
--	:writing_hand: I'm hunting for a new job after my current one ends. Got any leads for me?
--	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/). Currently learning *Rhapsody in Blue*.
+-	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/).
 -	:mage_man: Fiction of all kinds is something I'm deeply interested in.
 -	:video_game: Puzzles and games are something I'm deeply interested in.
 -	:turtle: I have a pet turtle named [**Poirot**](https://en.wikipedia.org/wiki/Hercule_Poirot).
