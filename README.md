@@ -4,14 +4,14 @@
 
 ![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
 
-** Fun Facts **
+#### Fun Facts
 
 -	:musical_keyboard: I'm learning the [**yanopi**](https://www.giantbomb.com/piano/3055-634/).
 -	:mage_man: Fiction of all kinds is something I'm deeply interested in.
 -	:video_game: Puzzles and games are something I'm deeply interested in.
 -	:turtle: I have a pet turtle named [**Poirot**](https://en.wikipedia.org/wiki/Hercule_Poirot).
 
-** Languages **
+#### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
@@ -21,7 +21,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-** Web Dev **
+#### Web Dev
 
 ![react](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
@@ -33,7 +33,7 @@
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
-** Other Tech **
+#### Other Tech
 
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -48,7 +48,7 @@
 
 [![Darumin's github stats](https://github-readme-stats.vercel.app/api?username=Darumin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me
+#### Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jandeo)
 
