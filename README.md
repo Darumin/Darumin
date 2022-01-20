@@ -2,7 +2,7 @@
 
 > My name is Jan. This is my Github.
 
-![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
+![ness-bike](http://68.media.tumblr.com/3ceefc07e995110cfb8db271aa4eca79/tumblr_osaa9uxGiq1w8sh9no1_500.gif)
 
 #### Fun Facts
 
