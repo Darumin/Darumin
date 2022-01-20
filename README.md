@@ -1,6 +1,5 @@
 <!-- ![](https://pa1.narvii.com/5842/f3467ed8d89962433813dc0882e82fc54300f7e3_00.gif) -->
 
-# Hello!
 > My name is Jan. This is my Github.
 
 ![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
