@@ -5,14 +5,14 @@
 
 ![ness-bike](https://github.com/Darumin/Darumin/blob/master/ness-bike.gif?raw=true)
 
-## Some Fun Facts
+### Some Fun Facts
 
 -	:musical_keyboard: I play the [**yanopi**](https://www.giantbomb.com/piano/3055-634/).
 -	:mage_man: Fiction of all kinds is something I'm deeply interested in.
 -	:video_game: Puzzles and games are something I'm deeply interested in.
 -	:turtle: I have a pet turtle named [**Poirot**](https://en.wikipedia.org/wiki/Hercule_Poirot).
 
-## Languages
+### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -22,7 +22,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Node Development
+### Node Development
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -35,7 +35,7 @@
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-## Related Tech
+### Related Tech
 
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,7 +50,7 @@
 
 [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darumin&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jandeo)
 
