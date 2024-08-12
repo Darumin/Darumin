@@ -5,12 +5,10 @@
 
 ![ness-bike](http://68.media.tumblr.com/3ceefc07e995110cfb8db271aa4eca79/tumblr_osaa9uxGiq1w8sh9no1_500.gif)
 
-#### Fun Facts
+#### I'm currently working on
 
--	:musical_keyboard: I'm learning the [**yanopi**](https://www.giantbomb.com/piano/3055-634/).
--	:mage_man: Fiction of all kinds is something I'm deeply interested in.
--	:video_game: Puzzles and games are something I'm deeply interested in.
--	:turtle: I have a pet turtle named [**Poirot**](https://en.wikipedia.org/wiki/Hercule_Poirot).
+-	:coffee: I love coffee. I host a regular cafe event at my house.
+-	:video_game: My current project is web game development (specifics are TBA), with an emphasis on visual novel / RPG adventure games. I use a combination of SolidJS for Reactive UIs and plain JavaScript.
 
 #### Languages
 
